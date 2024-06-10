@@ -1,0 +1,10 @@
+Librerías empleadas:
+	os, tkinter, pytube y pyinstaller
+
+pip install tk
+pip install pytube
+pip install pyinstaller
+
+
+Cómo generar fichero app.exe:
+	pyinstaller --onefile nombreFichero.py
